@@ -1,4 +1,4 @@
-# Java TCP Social Network for Image Sharing
+# Multithreaded TCP Client-Server Social Network
 
 A command-line social network for image-sharing built in Java, using TCP sockets and a multithreaded server. Users can create accounts, upload images, follow/unfollow other users, browse shared content, comment on posts, and request permission to download images from followed accounts.
 
