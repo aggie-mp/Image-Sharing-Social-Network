@@ -1,0 +1,8 @@
+alice:password123,9078
+bob:kwdikos,6534
+charlie:wallflower,9299
+bebop:cowboy,0449
+eric:password123,5566
+aggie:cupcake,0394
+billy:billy,9432
+akis:a,8493
